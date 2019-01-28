@@ -12,3 +12,11 @@ This is a Java/Maven project using JDK1.8.
 **Reading your Avro object using tools**
 - $ wget http://central.maven.org/maven2/org/apache/avro/avro-tools/1.8.2/avro-tools-1.8.2.jar
 - $ java -jar avro-tools-1.8.2.jar tojson --pretty climbinggym.avro
+
+**Other examples**
+<br/>
+Generic Record<br/>
+https://github.com/scottsappen/AvroGenericExample
+<br/>
+Specific Record<br/>
+https://github.com/scottsappen/AvroSpecificExample
