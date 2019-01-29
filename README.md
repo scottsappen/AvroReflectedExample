@@ -17,8 +17,15 @@ $ java -jar avro-tools-1.8.2.jar tojson --pretty climbinggym.avro
 
 **Other examples**
 <br/>
-Generic Record<br/>
+Generic Record
+<br/>
 https://github.com/scottsappen/AvroGenericExample
 <br/>
-Specific Record<br/>
+
+Specific Record
+<br/>
 https://github.com/scottsappen/AvroSpecificExample
+
+Schema evolution with a Java producer and consumer and Confluent Schema Registry
+<br/>
+https://github.com/scottsappen/AvroProdConsExample
